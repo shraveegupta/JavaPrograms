@@ -1,3 +1,10 @@
+/* Implement a program to find the area of a circle by using the formula given below and display the calculated area. 
+
+Area = pi*radius*radius 
+
+The value of pi is 3.14 */
+
+
 import java.util.Scanner; 
 
 class Tester {
