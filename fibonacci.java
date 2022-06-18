@@ -5,7 +5,7 @@ class Tester {
     int first = 0, second = 1;
     for (int i = 1; i <= n; ++i) 
     {
-      System.out.print(first + ", ");
+      System.out.print(first + ", "); // 0,1,1,2,3,5,8,13,....
       int next = first + second;
       first = second;
       second = next;
